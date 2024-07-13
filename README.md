@@ -1,6 +1,6 @@
-# Halo! Saya [Nama Anda] 👋
+# Halo! Saya [Muhammad Nazri Asy'Ary] 👋
 
-[Deskripsi singkat tentang diri Anda, minat, dan apa yang Anda lakukan]
+[Nothing]
 
 ## 🙋‍♂️ Tentang Saya
 
@@ -28,7 +28,7 @@
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username_anda)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazri07)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 Pencapaian
 
@@ -40,7 +40,7 @@
 
 * 📧 Email: [Alamat email Anda]
 * 💼 LinkedIn: [Profil LinkedIn Anda]
-[🐦 Twitter: @nazri000007](https://twitter.com/nazri000007)
+* [🐦 Twitter: @nazri000007](https://twitter.com/nazri000007)
 
 ## ⚡ Quote Favorit
 
