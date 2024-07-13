@@ -8,6 +8,6 @@ I am a passionate programmer with a love for coding and problem-solving. My area
 
 ## Get in Touch
 
-If you have any questions, suggestions, or just want to say hi, feel free to reach out to me. You can find me on [LinkedIn](nazri000007) and [Twitter](nazri000007).
+If you have any questions, suggestions, or just want to say hi, feel free to reach out to me. You can find me on [LinkedIn](nazri000007) and [Twitter]nazri000007.
 
 Let's connect and create something amazing together!
