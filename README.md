@@ -1,17 +1,41 @@
-### Hi there 👋
-### Kalian semua jelek
+Here's an example of a cool README.md for GitHub:
 
-<!--
-**nazri07/nazri07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```markdown
+# Project Name
 
-Here are some ideas to get you started:
+A brief description of your project goes here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+Instructions on how to install and set up your project.
+
+## Usage
+
+Examples and instructions on how to use your project.
+
+## Contributing
+
+Guidelines for contributing to your project.
+
+## License
+
+Information about the license for your project.
+
+## Credits
+
+Give credit to any resources or individuals that have helped with your project.
+
+## Contact
+
+Provide contact information for users to reach out to you.
+
+```
+
+Feel free to customize it to fit your project's needs!
