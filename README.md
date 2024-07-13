@@ -40,7 +40,7 @@
 
 * 📧 Email: [Alamat email Anda]
 * 💼 LinkedIn: [Profil LinkedIn Anda]
-* [🐦 Twitter: @nazri000007](https://twitter.com/nazri000007)
+[🐦 Twitter: @nazri000007](https://twitter.com/nazri000007)
 
 ## ⚡ Quote Favorit
 
